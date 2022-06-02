@@ -4,6 +4,19 @@ body {
     font-family: sans-serif;
 }
 
+img {
+    max-width: 100%;
+}
+
+.toggle-menu {
+    position: absolute;
+    top: 0.5rem;
+    right: 1.5rem;
+    cursor: pointer;
+    filter: invert(1);
+    width: 40px;
+}
+
 .main-menu {
     list-style: none;
     margin-top: 0;
