@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: #333;
+    font-family: sans-serif;
+}
+
+.main-menu {
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+.main-menu__link {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
